@@ -14,9 +14,9 @@ It is acceptable to post the public contact information for companies, governmen
 
 Do not incite, threaten, or encourage violence against anyone.
 
-It is acceptable to advocate for military or police action.  Although they do involve acts of violence (or at least acts of force), they are obviously an integral part of politics.  However, we will not allow advocating for police or military action against individuals on the basis of their race, ethnicity, religion, disability, sexual orientation, gender, or gender identity.
+It is acceptable to advocate for military or police action.
 
-Debating whether to take military action after 9/11 is obviously in-bounds.  Debating whether slavery or the holocaust ought to be reinstated is obviously out-of-bounds.
+Obviously, there is some contradiction between the two previous rules.  MyTake.org will not be a partner to violent extremists.
 
 <a name="spam"></a>
 
