@@ -1,8 +1,10 @@
-# MyTake.org Guidelines
+# MyTake.org FAQ / Guidelines
 
 MyTake.org is a platform for writing and publishing political essays with accurate citations.  We think that good ideas can outcompete bad ideas - no censorship required!
 
 However, MyTake.org will not allow itself to be used as a platform for bullying private individuals, or for inciting violence against anyone.
+
+<a name="harassment"></a>
 
 ## [Harassment](#harassment)
 
@@ -16,6 +18,8 @@ It is acceptable to advocate for military or police action.  Although they do in
 
 Debating whether to take military action after 9/11 is obviously in-bounds.  Debating whether slavery or the holocaust ought to be reinstated is obviously out-of-bounds.
 
+<a name="spam"></a>
+
 ## [Spam](#spam)
 
 MyTake.org is for real people giving their take on political issues.  When other people read those takes, they might star or follow the author.  We use those stars and follows to help curate high-quality takes.  Disingenuous manipulation of any of these systems counts as spamming.
@@ -28,9 +32,13 @@ Here are some examples of spam:
 - Buying or selling follows or stars.
 - "I'll star your take if you star mine."
 
+<a name="infringement"></a>
+
 ## [Copyright and trademark infringement](#infringement)
 
 Don't violate the copyrights and trademarks of others.  We respond to notices of alleged infringement according to our [terms of service](https://meta.mytake.org/tos).
+
+<a name="deceptive"></a>
 
 ## [Deceptive conduct](#deceptive)
 
@@ -41,15 +49,21 @@ Parody and satire are fine, even encouraged!  But make sure that you won't actua
 
 Don't link to malicious software in your posts.  Don't use deception to generate revenue or traffic.
 
+<a name="usernames"></a>
+
 ## [Usernames](#usernames)
 
 MyTake.org usernames are handed out on a first-come, first-served basis.  Unless you have a registered trademark for an account name, we will not accept a request to claim an existing username.
 
 So long as you are reading, starring, or publishing takes on MyTake.org, your account is active.  If you have not published any takes and your account is inactive for 6 months or more, we may remove your account.
 
+<a name="report"></a>
+
 ## [How to report a violation](#report)
 
 At the bottom-right of every take there is a "report" button.  Just specify what kind of violation it is and we'll respond within 24 hrs.
+
+<a name="violations"></a>
 
 ## [If you break the rules](#violations)
 
